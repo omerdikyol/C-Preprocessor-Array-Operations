@@ -18,7 +18,7 @@ This project implements a preprocessor to process shortcuts for arithmetic opera
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/C-Preprocessor-Array-Operations.git
+   git clone https://github.com/omerdikyol/C-Preprocessor-Array-Operations.git
    cd C-Preprocessor-Array-Operations
    ```
 2. Compile the program:
