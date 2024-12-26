@@ -20,3 +20,16 @@ This project implements a preprocessor to process shortcuts for arithmetic opera
    ```bash
    git clone https://github.com/your-username/C-Preprocessor-Array-Operations.git
    cd C-Preprocessor-Array-Operations
+   ```
+2. Compile the program:
+   ```bash
+   gcc main.c -o preprocessor
+   ```
+3. Run the preprocessor:
+   ```bash
+   ./preprocessor
+   ```
+4. Check the **`result.c`** file for the expanded C code.
+
+## License
+This project is open-source and available under the MIT License.
